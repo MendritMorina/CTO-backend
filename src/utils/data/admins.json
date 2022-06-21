@@ -1,0 +1,16 @@
+[
+  {
+    "firstName": "Appbites",
+    "lastName": "Appbites",
+    "email": "info@appbit.es",
+    "password": "test12345",
+    "accountConfirmed": true
+  },
+  {
+    "firstName": "Dialine",
+    "lastName": "Dialine",
+    "email": "order@dialine.ch",
+    "password": "test12345",
+    "accountConfirmed": true
+  }
+]

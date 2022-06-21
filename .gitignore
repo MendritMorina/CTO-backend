@@ -1,0 +1,11 @@
+# Public folder
+public/manufacturers
+public/tools
+public/techniques
+public/products
+
+# Dependency directories
+node_modules/
+
+# Env
+.env
